@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.drools</groupId>
-	<artifactId>droolssample</artifactId>
+	<artifactId>droolsLoanValidation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>droolssample</name>
+	<name>droolsApp</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

@@ -1,5 +1,5 @@
-import com.drools.sample.model.Participant;
-global com.drools.sample.model.Rate rate;
+import com.drools.integration.model.Participant;
+global com.drools.integration.model.Rate rate;
 
 dialect "mvel"
 

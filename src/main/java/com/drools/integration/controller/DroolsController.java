@@ -1,8 +1,8 @@
-package com.drools.sample.controller;
+package com.drools.integration.controller;
 
-import com.drools.sample.model.Participant;
-import com.drools.sample.model.Rate;
-import com.drools.sample.service.DroolsService;
+import com.drools.integration.model.Participant;
+import com.drools.integration.model.Rate;
+import com.drools.integration.service.DroolsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

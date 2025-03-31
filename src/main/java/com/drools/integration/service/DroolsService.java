@@ -1,7 +1,7 @@
-package com.drools.sample.service;
+package com.drools.integration.service;
 
-import com.drools.sample.model.Participant;
-import com.drools.sample.model.Rate;
+import com.drools.integration.model.Participant;
+import com.drools.integration.model.Rate;
 import org.kie.api.runtime.KieContainer;
 import org.kie.api.runtime.KieSession;
 import org.springframework.beans.factory.annotation.Autowired;
